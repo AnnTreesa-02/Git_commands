@@ -5,3 +5,4 @@
 #git add .--> this command takes all the untracked files into staging area
 #git add filename-->this command takes certain or specific files untracked files into staging area
 #git commit -m "message"-->To push the untracked file from staging area to git , message-->what have we done in this file, eg:"analysis"
+#hello
